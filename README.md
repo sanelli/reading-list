@@ -1,7 +1,7 @@
 # Reading list 📚
 
 ## 2024
-| Title                             | Author(s)                         | Lang | Year | Genre     | Start     | Finish    | Rate         |
+| Title                             | Author(s)                         | Lang | Year | Genre     | Start     | Finish    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-----------|-----------|--------------|
 | [Ventimila leghe sotti i mari](https://it.wikipedia.org/wiki/Ventimila_leghe_sotto_i_mari) | [Jules Verne](https://en.wikipedia.org/wiki/Jules_Verne) | 🇮🇹 | 1872 | Science fiction | 2024/Apr/01 |  |  |
 | [Programming language concepts ](https://www.amazon.co.uk/Programming-3e-Carlo-Ghezzi-dp-0471104264/dp/0471104264/ref=dp_ob_image_bk)| [Carlo Ghezzi](https://en.wikipedia.org/wiki/Carlo_Ghezzi), [Mehdi Jazayeri](https://en.wikipedia.org/wiki/Mehdi_Jazayeri)  | 🇺🇸 | 1998 | Tech | 2024/Mar/17 |  |  |
@@ -15,7 +15,7 @@
 
 
 ## 2023
-| Title                             | Author(s)                         | Lang | Year | Genre     | Start     | Finish    | Rate         |
+| Title                             | Author(s)                         | Lang | Year | Genre     | Start     | Finish    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-----------|-----------|--------------|
 | [Call me by your name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(novel)) | [André Aciman](https://en.wikipedia.org/wiki/André_Aciman) | 🇺🇸 | 2007 | Novel |  | 2023/Dec/28 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Of mice and man](https://en.wikipedia.org/wiki/Of_Mice_and_Men) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | 🇺🇸 | 1937 | Tragedy |  | 2023/Dec | ⭐️⭐️⭐️⭐️⭐️ |
