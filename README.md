@@ -22,7 +22,7 @@
 | [American Gods](https://en.wikipedia.org/wiki/American_Gods)     | [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)       | 🇺🇸 | 2001 | Fantasy |  | 2023/Nov | ⭐️⭐️⭐️⭐️   |
 | [The man in the high castle](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle) | [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) | 🇺🇸 | 1962 | Science Fiction |  | 2023/Oct | ⭐️ |
 | [Effective Modern C++](https://www.amazon.co.uk/Effective-Modern-Specific-Ways-Improve/dp/1491903996) | [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers) | 🇺🇸 | 2014 | Tech |  | 2023/Oct | ⭐️⭐️⭐️ |
-| [Cecità](https://it.wikipedia.org/wiki/Cecità_(romanzo)) | [José Saramago](https://en.wikipedia.org/wiki/José_Saramago)) | 🇮🇹 | 1995 | Post-apocalyptic |  | 2023/Aug | ⭐️⭐️⭐️⭐️ |
+| [Cecità](https://it.wikipedia.org/wiki/Cecità_(romanzo)) | [José Saramago](https://en.wikipedia.org/wiki/José_Saramago) | 🇮🇹 | 1995 | Post-apocalyptic |  | 2023/Aug | ⭐️⭐️⭐️⭐️ |
 | [Senilità](https://it.wikipedia.org/wiki/Senilità_(romanzo)) | [Italo Svevo](https://it.wikipedia.org/wiki/Italo_Svevo) | 🇮🇹 | 1898 | Novel |  | 2023/Jun | ⭐️⭐️ |
 | [Cose preziose](https://it.wikipedia.org/wiki/Cose_preziose_(romanzo)) | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | 🇮🇹 | 1991 | Horror |  | 2023/Jun | ⭐️⭐️⭐️⭐️ |
 
