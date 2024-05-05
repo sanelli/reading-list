@@ -3,7 +3,7 @@
 ## 2024
 | Title                             | Author(s)                         | Lang | Year | Genre     | Start     | Finish    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-----------|-----------|--------------|
-| [Ventimila leghe sotti i mari](https://it.wikipedia.org/wiki/Ventimila_leghe_sotto_i_mari) | [Jules Verne](https://en.wikipedia.org/wiki/Jules_Verne) | 🇮🇹 | 1872 | Science fiction | 2024/Apr/01 |  |  |
+| [Ventimila leghe sotti i mari](https://it.wikipedia.org/wiki/Ventimila_leghe_sotto_i_mari) | [Jules Verne](https://en.wikipedia.org/wiki/Jules_Verne) | 🇮🇹 | 1872 | Science fiction | 2024/Apr/01 | 2024/05/07  | ⭐️⭐️⭐️ |
 | [Programming language concepts ](https://www.amazon.co.uk/Programming-3e-Carlo-Ghezzi-dp-0471104264/dp/0471104264/ref=dp_ob_image_bk)| [Carlo Ghezzi](https://en.wikipedia.org/wiki/Carlo_Ghezzi), [Mehdi Jazayeri](https://en.wikipedia.org/wiki/Mehdi_Jazayeri)  | 🇺🇸 | 1998 | Tech | 2024/Mar/17 |  |  |
 | [Seta](https://it.wikipedia.org/wiki/Seta_(romanzo)) | [Alessandro Baricco](https://it.wikipedia.org/wiki/Alessandro_Baricco) | 🇮🇹 | 1996 | Novella |  | 2024/Mar/31 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Breakfast at Tiffany's](https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(novella)) | [Truman Capote](https://en.wikipedia.org/wiki/Truman_Capote) | 🇺🇸 | 1958 | Novella |  | 2024/Mar/16 | ⭐️ |
